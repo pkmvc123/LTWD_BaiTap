@@ -1,0 +1,11 @@
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\bin\Debug\NQHxDev_BaiTap_5.exe.config
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\bin\Debug\NQHxDev_BaiTap_5.exe
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\bin\Debug\NQHxDev_BaiTap_5.pdb
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\obj\Debug\NQHxDev_BaiTap_5.csproj.AssemblyReference.cache
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\obj\Debug\NQHxDev_BaiTap_5.Properties.Resources.resources
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\obj\Debug\NQHxDev_BaiTap_5.csproj.GenerateResource.cache
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\obj\Debug\NQHxDev_BaiTap_5.csproj.CoreCompileInputs.cache
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\obj\Debug\NQHxDev_BaiTap_5.exe
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\obj\Debug\NQHxDev_BaiTap_5.pdb
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\obj\Debug\NQHxDev_BaiTap_5.frmMain.resources
+E:\CODE\MyProject\LTWD_BaiTap\NQHxDev_BaiTap_5\obj\Debug\NQHxDev_BaiTap_5.frmDocument.resources
